@@ -1,0 +1,12 @@
+.propos{
+    height: 80vh;
+    width: 180vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.ev img{ 
+    border-radius: 50%;
+}
